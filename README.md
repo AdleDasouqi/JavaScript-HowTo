@@ -11,7 +11,7 @@
     Whether you're a beginner or an experienced developer, this resource aims to enhance your JavaScript skills and understanding.
 </p>
 <p>
-    Explore the examples in each section and dive into the code to deepen your understanding of JavaScript concepts. &#128076;
+    Explore the examples in each section and dive into the code to deepen your understanding of JavaScript concepts.&#128076;
 </p>
 <br>
-<img src="https://cdn.devdojo.com/posts/images/July2021/learn-this-21-javascript-tricks-to-code-like-a-pro5.jpg?auto=format&q=70 w=1280" width="50%">
+<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*LyZcwuLWv2FArOumCxobpA.png">
