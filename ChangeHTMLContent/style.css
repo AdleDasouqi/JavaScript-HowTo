@@ -1,3 +1,7 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .container {
     position: absolute;
     top: 50%;
@@ -10,7 +14,7 @@
 }
 
 .changeTextbtn {
-    background-color: #9D4EDD;
+    background-color: #00A0DC;
     color: #FFF;
     height: 30px;
     border: none;
