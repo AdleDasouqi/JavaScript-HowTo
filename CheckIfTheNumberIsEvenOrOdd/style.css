@@ -1,3 +1,7 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .container {
     position: absolute;
     top: 50%;
@@ -14,12 +18,9 @@
     top: 10px;
     padding: 5px;
     width: 40%;
+    cursor: pointer;
     background-color: #00A0DC;
     color: #FFF;
     border: none;
     border-radius: 3px;
-}
-
-#result {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
