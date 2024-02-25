@@ -11,10 +11,10 @@
     border-radius: 3px;
     cursor: pointer;
     color: #FFF;
-    background-color: #9D4EDD;
+    background-color: #00A0DC;
 }
 
-.moveText {
+.originalText {
     margin-right: 20px;
 }
 

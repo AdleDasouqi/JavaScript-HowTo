@@ -4,6 +4,6 @@ function changeStyle() {
     styleElement.innerHTML = 'The style has changed';
     styleElement.style.fontWeight = "bold";
     styleElement.style.textAlign = "center";
-    styleElement.style.color = "#fbaf41";
+    styleElement.style.color = "#000";
     styleElement.style.marginRight = "35%";
 }
