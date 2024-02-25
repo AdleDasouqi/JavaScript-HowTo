@@ -5,4 +5,6 @@ var paragraphElement = document.getElementById("oldId");
 paragraphElement.id = "newId"
 
 // Change the content of the paragraph
-paragraphElement.innerHTML = "Attribute 'id' changed, and content updated.";
+paragraphElement.innerHTML = `Attribute 'id' ${paragraphElement} changed, and content updated.`;
+
+
