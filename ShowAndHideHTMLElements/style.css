@@ -11,10 +11,10 @@
     font-size: 25px;
 }
 
-.showElement, .HideElement {
+.showElement, .hideElement {
     cursor: pointer;
-    height: 30px;
-    background-color: #9D4EDD;
+    background-color: #00A2E3;
     color: #FFF;
     border: none;
+    margin: 0 4px;
 }
