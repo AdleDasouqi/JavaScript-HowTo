@@ -10,8 +10,7 @@ function primeNumber() {
     inputNumber = Number(inputNumber);
 
     if(inputNumber === 1) {
-        // A composite number is a natural number or a positive integer that has more than 2 factors.
-        alert("1 is neither prime nor composite number"); 
+        alert("1 is neither prime nor composite number");
         return;
     }
 
@@ -31,5 +30,4 @@ function primeNumber() {
         document.getElementById("isPrime").innerHTML = `${inputNumber} is not prime number`;
         console.log(isPrime);
     }
-    
 }
